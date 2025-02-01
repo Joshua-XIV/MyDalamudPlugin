@@ -10,19 +10,19 @@ Contains the repository JSON file for my current Dalamud Plugins for third party
 * Check the "Enabled" box for your new entry.
 * Click "Save and Close" at the bottom.
   
-![Example of Custom Repo](https://imgur.com/a/o8yHLV0)
+![Example of Custom Repo](https://i.imgur.com/a/o8yHLV0)
 
 To then install this plugin, you can from within the game type `/xlplugins` in the in-game chat and hit enter.
 You can then select any of my plugins that you wish to install to the game and click "Install".
 You can search for any of the plugins I've created by using the search bar and typing "Josh".
 
-![Plugin Install Example](https://imgur.com/a/wpR5wz2)
+![Plugin Install Example](https://i.imgur.com/a/wpR5wz2)
 
 ## Updating Plugins
 
 When an update is available, you can click the "Update plugins" button on the by accessing the "Plugin Installer" by typing `/xlplugins` in the in-game chat and pressing enter.
 
-![Plugin Update Example](https://imgur.com/a/z6v0GTe)
+![Plugin Update Example](https://i.imgur.com/a/z6v0GTe)
 
 ## My Current Plugins
 
