@@ -20,7 +20,7 @@ You can search for any of the plugins I've created by using the search bar and t
 
 ## Updating Plugins
 
-When an update is available, you can click the "Update plugins" button on the by accessing the "Plugin Installer" by typing `/xlplugins` in the in-game chat and pressing enter.
+When an update is available, you can click the "Update plugins" button on the bottom by accessing the "Plugin Installer" by typing `/xlplugins` in the in-game chat and pressing enter.
 
 ![Plugin Update Example](https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/images/imuupdateplugin.png)
 
