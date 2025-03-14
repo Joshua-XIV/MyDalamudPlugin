@@ -34,9 +34,9 @@ foreach ($plugin in $pluginList) {
   $config | Add-Member -Name "IsTestingExclusive" -MemberType NoteProperty -Value "False"
   $config | Add-Member -Name "LastUpdated" -MemberType NoteProperty -Value $time
   $config | Add-Member -Name "DownloadCount" -MemberType NoteProperty -Value $count
-  $config | Add-Member -Name "DownloadLinkInstall" -MemberType NoteProperty -Value $download
-  $config | Add-Member -Name "DownloadLinkTesting" -MemberType NoteProperty -Value $download
-  $config | Add-Member -Name "DownloadLinkUpdate" -MemberType NoteProperty -Value $download
+  $config | Add-Member -Name "DownloadLinkInstall" -MemberType NoteProperty -Value $download -Force
+  $config | Add-Member -Name "DownloadLinkTesting" -MemberType NoteProperty -Value $download -Force
+  $config | Add-Member -Name "DownloadLinkUpdate" -MemberType NoteProperty -Value $download -Force
 
   # Add to the plugin array.
   $pluginsOut += $config
