@@ -24,7 +24,7 @@ foreach ($plugin in $pluginList) {
   {
       $configData = Invoke-WebRequest -Uri "https://raw.githubusercontent.com/$($username)/$($repo)/$($branch)/$($configFolder)/$($repo).json"
       $cleanContent = $configData.Content -replace "^\uFEFF", ""
-      $config = ConvertFrom-Json $$cleanContent
+      $config = ConvertFrom-Json $cleanContent
   } 
   catch 
   {
