@@ -20,8 +20,16 @@ foreach ($plugin in $pluginList) {
   $time = [Int](New-TimeSpan -Start (Get-Date "01/01/1970") -End ([DateTime]$json.published_at)).TotalSeconds
 
   # Get the config data from the repo.
-  $configData = Invoke-WebRequest -Uri "https://raw.githubusercontent.com/$($username)/$($repo)/$($branch)/$($configFolder)/$($repo).json"
-  $config = ConvertFrom-Json $configData.content
+  try 
+  {
+      $configData = Invoke-WebRequest -Uri "https://raw.githubusercontent.com/$($username)/$($repo)/$($branch)/$($configFolder)/$($repo).json"
+      $config = ConvertFrom-Json $configData.content
+  } 
+  catch 
+  {
+      Write-Error "Failed to fetch config data for $username/$repo: $_"
+      continue  # Skip this plugin and move to the next one
+  }
 
   # Ensure that config is converted properly.
   if ($null -eq $config) {
