@@ -27,7 +27,7 @@ foreach ($plugin in $pluginList) {
   } 
   catch 
   {
-      Write-Error "Failed to fetch config data for $username/$repo: $_"
+      Write-Error "Failed to fetch config data for $($username)/$($repo): $_"
       continue  # Skip this plugin and move to the next one
   }
 
