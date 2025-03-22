@@ -5,10 +5,10 @@
     "branch": "master",
     "configFolder": "Bunnies"
   },
-  {
-  "username": "Joshua-XIV",
-  "repo": "TreasureMaps",
-  "branch": "main",
-  "configFolder": "TreasureMaps"
-  }
+    {
+    "username": "Joshua-XIV",
+    "repo": "TreasureMaps",
+    "branch": "main",
+    "configFolder": "TreasureMaps"
+    }
 ]
