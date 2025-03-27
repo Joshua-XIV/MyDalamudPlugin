@@ -6,10 +6,11 @@
     "Description": "This plugin will automatically take you to Pyros and farm the Low Level Bunny Fate. Other zones are currently WIP.",
     "InternalName": "Bunnies",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.1",
-    "DalamudApiLevel": 11,
+    "AssemblyVersion": "0.1.0.2",
+    "DalamudApiLevel": 12,
     "Tags": [
-      "Bunnies, Eureka",
+      "Bunnies",
+      "Eureka",
       "Gil",
       "Pyros"
     ],
@@ -17,11 +18,11 @@
     "RepoUrl": "https://github.com/Joshua-XIV/Bunnies",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1738345655,
-    "DownloadCount": 8,
-    "DownloadLinkInstall": "https://github.com/Joshua-XIV/Bunnies/releases/download/0.1.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Joshua-XIV/Bunnies/releases/download/0.1.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/Bunnies/releases/download/0.1.0.1/latest.zip"
+    "LastUpdated": 1743040133,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Joshua-XIV/Bunnies/releases/download/0.1.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Joshua-XIV/Bunnies/releases/download/0.1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/Bunnies/releases/download/0.1.0.2/latest.zip"
   },
   {
     "Author": "Josh",
