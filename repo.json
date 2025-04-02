@@ -27,11 +27,11 @@
   {
     "Author": "Josh",
     "Name": "TreasureMaps",
-    "Punchline": "Automatically teleporsts to where treasure maps are located",
+    "Punchline": "Automatically teleports to where treasure maps are located",
     "Description": "A dalamud plugin for deciphering maps and teleporting to their respective zone. This plugin also offers additionals feautres with automating treasure maps",
     "InternalName": "TreasureMaps",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.0.0.5",
+    "AssemblyVersion": "0.0.0.6",
     "DalamudApiLevel": 12,
     "Tags": [
       "Maps",
@@ -42,10 +42,10 @@
     "RepoUrl": "https://github.com/Joshua-XIV/TreasureMaps",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1742998096,
-    "DownloadCount": 3,
-    "DownloadLinkInstall": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.5/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.5/latest.zip"
+    "LastUpdated": 1743625300,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.6/latest.zip"
   }
 ]
