@@ -51,11 +51,11 @@
   {
     "Author": "Josh",
     "Name": "AutoScrip",
-    "Punchline": "Scrip Exchange",
-    "Description": "A dalamud plugin for exchanging scrips",
+    "Punchline": "Need Gathering Scrips?",
+    "Description": "Automation for Orange and Purple Gathering scrips with the help of vnavmesh and AutoHook",
     "InternalName": "AutoScrip",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "DalamudApiLevel": 12,
     "Tags": [
       "Scrips"
@@ -64,10 +64,10 @@
     "RepoUrl": "https://github.com/Joshua-XIV/AutoScrip",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1744042736,
+    "LastUpdated": 1744054746,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.2/latest.zip"
   }
 ]
