@@ -47,5 +47,27 @@
     "DownloadLinkInstall": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.7/latest.zip",
     "DownloadLinkTesting": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Joshua-XIV/TreasureMaps/releases/download/0.0.0.7/latest.zip"
+  },
+  {
+    "Author": "Josh",
+    "Name": "AutoScrip",
+    "Punchline": "Scrip Exchange",
+    "Description": "A dalamud plugin for exchanging scrips",
+    "InternalName": "AutoScrip",
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "0.0.0.0",
+    "DalamudApiLevel": 12,
+    "Tags": [
+      "Scrips"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Joshua-XIV/TreasureMaps/main/TreasureMaps/Assets/money.png",
+    "RepoUrl": "https://github.com/Joshua-XIV/AutoScrip",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1744040498,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.0/latest.zip"
   }
 ]
