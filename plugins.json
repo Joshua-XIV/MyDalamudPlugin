@@ -10,5 +10,11 @@
         "repo": "TreasureMaps",
         "branch": "main",
         "configFolder": "TreasureMaps"
+    },
+    {
+    "username": "Joshua-XIV",
+    "repo": "AutoScrip",
+    "branch": "master",
+    "configFolder": "AutoScrip"
     }
 ]
