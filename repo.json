@@ -55,7 +55,7 @@
     "Description": "Automation for Orange and Purple Gathering scrips with the help of vnavmesh and AutoHook",
     "InternalName": "AutoScrip",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.0.0.8",
+    "AssemblyVersion": "0.0.0.9",
     "DalamudApiLevel": 12,
     "Tags": [
       "Scrips"
@@ -64,10 +64,10 @@
     "RepoUrl": "https://github.com/Joshua-XIV/AutoScrip",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1744299149,
+    "LastUpdated": 1744301493,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.8/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/AutoScrip/releases/download/0.0.0.9/latest.zip"
   }
 ]
