@@ -6,7 +6,7 @@
     "Description": "This plugin will automatically take you to Pyros and farm the Low Level Bunny Fate. Other zones are currently WIP.",
     "InternalName": "Bunnies",
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.3",
+    "AssemblyVersion": "0.1.0.4",
     "DalamudApiLevel": 12,
     "Tags": [
       "Bunnies",
@@ -64,10 +64,10 @@
     "RepoUrl": "https://github.com/Joshua-XIV/AutoScrip",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1744907175,
-    "DownloadCount": 20,
-    "DownloadLinkInstall": "https://github.com/Joshua-XIV/AutoScrip/releases/download/1.0.1.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Joshua-XIV/AutoScrip/releases/download/1.0.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/AutoScrip/releases/download/1.0.1.2/latest.zip"
+    "LastUpdated": 1750949889,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Joshua-XIV/AutoScrip/releases/download/1.0.1.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Joshua-XIV/AutoScrip/releases/download/1.0.1.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Joshua-XIV/AutoScrip/releases/download/1.0.1.4/latest.zip"
   }
 ]
