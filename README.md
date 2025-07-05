@@ -33,7 +33,7 @@ Here are the plugins currently available in this repository:
 Helper for locating hidden treasure bunnies in Eureka.
 
 - [AutoScrip](https://github.com/Joshua-XIV/AutoScrip)  
-Automates collectable turn-ins and optionally assists with fishing for scrips.
+Automates collectable turn-ins and assists with fishing for scrips.
 
 - [TreasureMaps](https://github.com/Joshua-XIV/TreasureMaps)  
 Assists with managing and automating treasure maps.
