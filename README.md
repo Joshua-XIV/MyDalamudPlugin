@@ -24,12 +24,20 @@ When an update is available, you can click the "Update plugins" button on the bo
 
 ![Plugin Update Example](https://raw.githubusercontent.com/Joshua-XIV/MyDalamudPlugin/main/images/imuupdateplugin.png)
 
+
 ## My Current Plugins
 
-Below are the current plugins that are available in this repo:
+Here are the plugins currently available in this repository:
 
-* [Bunnies](https://github.com/Joshua-XIV/Bunnies)
+- [Bunnies](https://github.com/Joshua-XIV/Bunnies)  
+Helper for locating hidden treasure bunnies in Eureka.
+
+- [AutoScrip](https://github.com/Joshua-XIV/AutoScrip)  
+Automates collectable turn-ins and optionally assists with fishing for scrips.
+
+- [TreasureMaps](https://github.com/Joshua-XIV/TreasureMaps)  
+Assists with managing treasure map data for quicker party coordination.
 
 ## About
 
-I am currently a student studying CS and relatively new to the plugin development scene. Feel free to provide any feedback under the Issues tab for a plugin under any of the current plugin(s) repos.
+I am currently a student studying CS, primarily focused on full-stack development. Feel free to provide any feedback under the Issues tab for a plugin under any of the current plugin(s) repos.
