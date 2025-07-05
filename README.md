@@ -36,7 +36,7 @@ Helper for locating hidden treasure bunnies in Eureka.
 Automates collectable turn-ins and optionally assists with fishing for scrips.
 
 - [TreasureMaps](https://github.com/Joshua-XIV/TreasureMaps)  
-Assists with managing treasure map data for quicker party coordination.
+Assists with managing and automating treasure maps.
 
 ## About
 
